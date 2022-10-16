@@ -1,0 +1,7 @@
+Compara dos numeros y determina cual es mayor y cual el menor
+Imprime en consola el resultado
+
+Recomendació
+    Usa el operador if
+    A < B = A menor a B
+    A > B = A mayor a B

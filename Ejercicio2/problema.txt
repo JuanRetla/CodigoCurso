@@ -1,0 +1,5 @@
+El título de la página debe ser Tim Berners-Lee.
+El texto "Tim Berners-Lee" como encabezado de nivel 1.
+El texto "Biografía" como encabezado de nivel 2.
+Todas las siglas, como HTTP, W3C o MIT deben aparecer como texto destacado.
+Los nombres de las instituciones o empresas, como Consorcio de la World Wide Web o Universidad de Oxford, deben aparecer como texto enfatizado.
