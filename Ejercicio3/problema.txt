@@ -1,1 +1,4 @@
-Corrige los errores que presenta el código base que se te proporciona.
+﻿Desbes crear una una tabla modificando el codigo
+
+Nota
+En este ejercicio encontraras una etiqueta llamda <style> no te proecupes por ella, muy pronto la veremos

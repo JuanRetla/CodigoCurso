@@ -1,7 +1,9 @@
-Compara dos numeros y determina cual es mayor y cual el menor
-Imprime en consola el resultado
+Realiza una cuenta automatica del 1 al 10
 
-Recomendació
-    Usa el operador if
-    A < B = A menor a B
-    A > B = A mayor a B
+Recomendación
+
+Utiliza el iterador for
+
+Sintaxis
+
+for(base; limite; incremento)

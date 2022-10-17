@@ -1,9 +1,0 @@
-Realiza una cuenta automatica del 1 al 10
-
-Recomendación
-
-Utiliza el iterador for
-
-Sintaxis
-
-for(base; limite; incremento)
