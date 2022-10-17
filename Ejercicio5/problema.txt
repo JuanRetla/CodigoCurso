@@ -1,3 +1,5 @@
+Tienes que tener en cuenta los siguientes requisitos:
+
 El texto principal:
 El color del texto es azul: #00F.
 El color de fondo del texto es verde claro: #CFC.
